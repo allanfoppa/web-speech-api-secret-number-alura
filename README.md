@@ -24,6 +24,7 @@ In order to run install VSCode extension [`Live Server`](https://marketplace.vis
 - [ ] Improve button UI
 - [ ] Add multiplayer
 
-## Contributing
+## FINAL CONSIDERATIONS
 
-Any contributions you make are **greatly appreciated**.
+This application is a practice project built to explore technologies and concepts. It's not intended for commercial use and may not adhere to best practices for production environments.
+Feel free to explore, contribute, or provide feedback. Thank you for checking it out!
